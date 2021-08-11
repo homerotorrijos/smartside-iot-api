@@ -1,16 +1,18 @@
-# SmartSIDE IoT API
+# SmartSIDE IoT API 
 
 
-API IoT Devices
+API Models
+
+### Gateway
 
 
-## Gateway
+### User
 
 
-## User
+### Node
 
 
-## Node
+### Actuator
 
 
-## Actuator
+# SmartSIDE IoT Hub
